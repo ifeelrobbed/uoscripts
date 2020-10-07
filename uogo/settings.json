@@ -25,6 +25,6 @@
 	"use_verdata" : false,
 	"encryption" : 0,
 	"plugins" : [
-		"C:\\Temp\\ClassicAssist\\ClassicAssist.dll"
+		"C:\\UO\\ClassicAssist\\ClassicAssist.dll"
 	]
 }

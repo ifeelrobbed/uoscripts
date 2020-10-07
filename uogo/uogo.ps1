@@ -25,7 +25,7 @@ Write-Host "Configure ClassicUO client to connect to the ProjectArcturus shard."
 Write-Host "Download and install ClassicAssist to allow powerful macro creation and misc options." -ForegroundColor yellow
 Write-Host "Download and install world map data so towns, shops, dungeons, etc are marked on the map." -ForegroundColor yellow
 Write-Host "*****************************************************************************************" -ForegroundColor yellow
-<#
+
 if (-not (Test-Path $dlLoc -PathType Container)) {
 	Write-Host "Creating download directory $dlLoc"
 	New-Item -ItemType directory -Path $dlLoc | Out-Null
@@ -73,7 +73,7 @@ Invoke-WebRequest -Uri $mapUrl -OutFile $mapLoc
 
 Write-Host "Extracting Map data to $dlLoc\ClassicUO\Data\Client\"
 Expand-Archive -Path $mapLoc -DestinationPath "$dlLoc\ClassicUO\Data\Client\" -Force
-#>
+
 $cuoExe="$dlLoc\ClassicUO\ClassicUO.exe"
 
 Write-Host "Creating Desktop shortcut for ClassicUO"
