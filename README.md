@@ -15,7 +15,11 @@ https://uo.com/client-download/
 
 ![Imgur](https://i.imgur.com/EtY8UQi.jpg)
 
-Install the Classic Client, **let it patch fully**, then close it. This may take awhile.
+Install the Classic Client, making sure you install it to:
+
+C:\Program Files (x86)\Electronic Arts\Ultima Online Classic
+
+Once installed, **let it patch fully**, then close it. This may take awhile.
 
 
 
