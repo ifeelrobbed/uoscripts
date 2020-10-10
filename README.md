@@ -15,7 +15,9 @@ https://uo.com/client-download/
 
 ![Imgur](https://i.imgur.com/EtY8UQi.jpg)
 
-Install the Classic Client, let it patch fully, then close it.
+Install the Classic Client, **let it patch fully**, then close it. This may take awhile.
+
+
 
 ### Run the uogo script
 
@@ -56,9 +58,9 @@ From here you will create your first character. Note that Elves and Gargoyles we
 Next you'll see a screent to pick a trade for your character. I imagine the default templates are fine, but I would recommend clicking on Advanced and picking your own skills.
 
 In UO there are no levels. Your character has a skill cap of 700 and each skill you train can (and should) be raised to 100. So practically speaking, each character will ultimately have 7 skills. For perhaps the easiest start to get a handle on the game I recommend:
-*Swordsmanship: 50 (So you don't get beat up by goats. Seriously)
-*Magery: 50 (Though not mandatory, Magery is useful on any character. Even the biggest brute will appreciate spells like Recall to get around)
-*Healing: 20 (You like staying alive right?)
+* Swordsmanship: 50 (So you don't get beat up by goats. Seriously)
+* Magery: 50 (Though not mandatory, Magery is useful on any character. Even the biggest brute will appreciate spells like Recall to get around)
+* Healing: 20 (You like staying alive right?)
 
 I would recommend leaving stats as is, possibly shaving off 10 strength for intellegence if you want to dabble in spells a little more. I would not go lower than 50 though. Until you have a firm handle on the game you will heavily prize the "staying alive" stats and skills
 
@@ -68,6 +70,6 @@ Or you can do what you want. That's the beauty of UO, and you can always unlearn
 
 Finally, you will pick your start town. Apparently New Haven is newb town? I wouldn't know. I'd recommend Britain. It's the biggest city in the game, has every shop, is centrally located, has a moongate nearby, mountains for mining nearby, sea access, you name it. Once you get a handle on the game, you can set up shop in any city you want. Or your own house.
 
-Now you're in game. First thing, open the world map and find the bank. Go up to the bank and type "bank" and hit enter. Put your gold there. You will die. Don't die with all your money on you. You have 1,000 gold which allows for several oopsies as you learn what can and can't kill you.
+Now you're in game. First thing, open the world map and find the bank. Go up to the bank and type "bank" and hit enter. Put your gold there. You will die in this game. Don't sweat it. The game assumes you will and most things for now are easy come easy go. That said, don't die with all your money on you. You start with 1,000 gold which allows for several oopsies as you learn what can and can't kill you.
 
-Now from there, well, that's up to you. Head up to the graveyard and fight skeletons for a set of bone armor? Explore? Whatever you choose, the great thing about UO is that it's your choice. There is no guided themepark with scripted content. There is simply, the world. And the game wants you to live in it and make your way. So relax, don't ever feel like you have to do anything or your missing out. It's your goals, and your way. I hope you enjoy UO at least half as much as I do. You're in for a treat.
+Now from there, well, that's up to you. Head up to the graveyard and fight skeletons for a set of bone armor? Explore? Or maybe you simultaneously followed and didn't follow my recommendation and made a smith or a lumberjack. Then grab your pickaxe or axe and find the mountains or trees. Whatever you choose, the great thing about UO is that it's your choice. There is no guided themepark with scripted content. There is simply, the world. And the game wants you to live in it and make your way. So relax, don't ever feel like you have to do anything or your missing out. It's your goals, and your way. I hope you enjoy UO at least half as much as I do. You're in for a treat.
