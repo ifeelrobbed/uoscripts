@@ -88,3 +88,6 @@ Write-Host "********************************************************************
 Write-Host "Install complete!`nYou may now launch the game and connect to the ProjectArcturus shard via the ClassicUO Desktop shortcut or by running:`n$cuoExe" -ForegroundColor green
 Write-Host "**********************************************************************************************************************" -ForegroundColor green
 
+Read-Host -Prompt "Press Enter to exit"
+
+
