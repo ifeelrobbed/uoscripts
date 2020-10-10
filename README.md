@@ -13,7 +13,7 @@ The official UO client can be downloaded from:
 
 https://uo.com/client-download/
 
-![Imgur](https://imgur.com/cDF92pa)
+![Imgur](https://i.imgur.com/EtY8UQi.jpg)
 
 Install the Classic Client, let it patch fully, then close it.
 
@@ -21,11 +21,11 @@ Install the Classic Client, let it patch fully, then close it.
 
 Open Powershell by hitting the Windows key and typing "powershell". Or probably just "power":
 
-![Powershell](https://imgur.com/a/PVJUHkX)
+![Powershell](https://i.imgur.com/cDF92pa.jpg)
 
 It will open a command line that looks like this:
 
-![Powershell command line](https://imgur.com/a/wdSrCCF)
+![Powershell command line](https://i.imgur.com/hGTg5o2.jpg)
 
 Now paste the following line into it and hit Enter:
 
@@ -33,7 +33,7 @@ Now paste the following line into it and hit Enter:
 
 It should look similar to this once it completes:
 
-![Script complete](https://imgur.com/a/e3UKbGl)
+![Script complete](https://i.imgur.com/NKfXCbH.jpg)
 
 ### Open ClassicUO
 
@@ -47,7 +47,7 @@ Create account and log in.
 
 You should be at the login screen now. Just type in the username and password you want and click Login.
 
-![ClassicUO login screen](https://imgur.com/a/DhSm58l)
+![ClassicUO login screen](https://imgur.com/3LagVhW.jpg)
 
 You should only have the ProjectArcturus shard listed. Click on it and click the green next button at the bottom right.
 
@@ -62,7 +62,7 @@ In UO there are no levels. Your character has a skill cap of 700 and each skill 
 
 I would recommend leaving stats as is, possibly shaving off 10 strength for intellegence if you want to dabble in spells a little more. I would not go lower than 50 though. Until you have a firm handle on the game you will heavily prize the "staying alive" stats and skills
 
-![Imgur](https://i.imgur.com/f4GoOgC.jpg)
+![Imgur](https://imgur.com/f4GoOgC.jpg)
 
 Or you can do what you want. That's the beauty of UO, and you can always unlearn one skill and learn another. Though I'd recommend doing that before hitting 100!
 
