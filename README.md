@@ -13,7 +13,7 @@ The official UO client can be downloaded from:
 
 https://uo.com/client-download/
 
-![This guy](https://imgur.com/a/XrahwFy)
+![Imgur](https://imgur.com/cDF92pa)
 
 Install the Classic Client, let it patch fully, then close it.
 
@@ -62,7 +62,7 @@ In UO there are no levels. Your character has a skill cap of 700 and each skill 
 
 I would recommend leaving stats as is, possibly shaving off 10 strength for intellegence if you want to dabble in spells a little more. I would not go lower than 50 though. Until you have a firm handle on the game you will heavily prize the "staying alive" stats and skills
 
-![My reccomended stats and skills](https://imgur.com/a/oGgN59T)
+![Imgur](https://i.imgur.com/f4GoOgC.jpg)
 
 Or you can do what you want. That's the beauty of UO, and you can always unlearn one skill and learn another. Though I'd recommend doing that before hitting 100!
 
