@@ -43,7 +43,7 @@ Either use the ClassicUO shortcut that should be on your desktop or navigate to:
 
 And run ClassicUO.exe
 
-Create account and log in.
+### Create account and log in.
 
 You should be at the login screen now. Just type in the username and password you want and click Login.
 
