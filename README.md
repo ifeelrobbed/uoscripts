@@ -62,7 +62,7 @@ In UO there are no levels. Your character has a skill cap of 700 and each skill 
 * Magery: 50 (Though not mandatory, Magery is useful on any character. Even the biggest brute will appreciate spells like Recall to get around)
 * Healing: 20 (You like staying alive right?)
 
-Note taht for some odd reason, even if you only pick 3 skills to put points in, you still have to pick a 4th skill to have 0 in. Just pick one, it doesn't matter.
+Note that for some odd reason, even if you only pick 3 skills to put points in, you still have to pick a 4th skill to have 0 in. Just pick one, it doesn't matter.
 
 I would recommend leaving stats as is, possibly shaving off 10 strength for intellegence if you want to dabble in spells a little more. I would not go lower than 50 though. Until you have a firm handle on the game you will heavily prize the "staying alive" stats and skills
 
