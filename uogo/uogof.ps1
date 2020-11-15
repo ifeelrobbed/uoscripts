@@ -1,9 +1,9 @@
-$ocuPath="F:\Program Files (x86)\Electronic Arts\Ultima Online Classic\UO.exe"
-$occPath="F:\Program Files (x86)\Electronic Arts\Ultima Online Classic\client.exe"
+$ocuPath="G:\Program Files (x86)\Electronic Arts\Ultima Online Classic\UO.exe"
+$occPath="G:\Program Files (x86)\Electronic Arts\Ultima Online Classic\client.exe"
 $occInstaller="http://web.cdn.eamythic.com/us/uo/installers/20120309/UOClassicSetup_7_0_24_0.exe"
 $occExe="UOClassicSetup_7_0_24_0.exe"
-$dlLoc="F:\UO"
-#$dlLoc="F:\Temp"
+$dlLoc="G:\UO"
+#$dlLoc="G:\Temp"
 
 $cuoUrl="https://github.com/andreakarasho/ClassicUO/releases/download/0.1.6.1/ClassicUO-beta-0-1-6-1-release.zip"
 $cuoFile="ClassicUO-beta-0-1-6-1-release.zip"
@@ -41,7 +41,7 @@ if (Test-Path $occPath -PathType Leaf) {
 		
 		Start-Sleep -s 10
 		
-		ii "F:\Program Files (x86)\Electronic Arts\Ultima Online Classic"		
+		ii "G:\Program Files (x86)\Electronic Arts\Ultima Online Classic"		
 		
 		exit}
 	else {
